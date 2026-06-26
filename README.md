@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
 <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
 <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
-<img src="https://img.shields.io/badge/Frida-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
-<img src="https://img.shields.io/badge/MobSF-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
-<img src="https://img.shields.io/badge/jadx%20%2F%20apktool-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
 <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=00F0FF&labelColor=0D1117&color=F724A9"/>
@@ -38,17 +35,11 @@
 ## `> stats`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WeeslaX&show_icons=true&hide_border=true&title_color=F724A9&icon_color=00F0FF&text_color=c9d1d9&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WeeslaX&show_icons=true&hide_rank=true&hide_border=true&title_color=F724A9&icon_color=00F0FF&text_color=c9d1d9&bg_color=0D1117"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeeslaX&layout=compact&hide_border=true&title_color=F724A9&text_color=c9d1d9&bg_color=0D1117"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=WeeslaX&hide_border=true&background=0D1117&ring=F724A9&fire=00F0FF&currStreakNum=00F0FF&currStreakLabel=F724A9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=F724A9"/>
 </div>
-
-## `> featured`
-
-- **[Hexhound](https://github.com/WeeslaX/Weeslaniac)** — Python GUI fuzzer for Android apps; weighted-random input to surface crashes, auto-generates a replay script + screenshots of unique crash states.
-- **[GhostHook](https://github.com/WeeslaX/Attacker_App)** — Android task-hijacking attacker; demonstrates a StrandHogg v2 activity-hijack against a vulnerable target.
-- **[Insecure_Target](https://github.com/WeeslaX/Insecure_Target)** — the deliberately-vulnerable companion app; the StrandHogg v2 victim.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F724A9,100:00F0FF&section=footer"/>
