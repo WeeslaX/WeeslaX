@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F0FF,100:F724A9&text=WEESLAX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%C2%B7%20Android%20Offensive%20Security&descSize=18&descAlignY=58&animation=fadeIn&section=header" alt="WeeslaX — Mobile · Android Offensive Security" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F0FF,100:F724A9&text=WEESLAX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20Agents%20%C2%B7%20Breaking%20Mobile&descSize=18&descAlignY=58&animation=fadeIn&section=header" alt="WeeslaX — Building Agents · Breaking Mobile" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=900&color=F724A9&center=true&vCenter=true&width=640&height=50&lines=Android+Red+Team;I+break+mobile+apps;Frida+%C2%B7+Burp+%C2%B7+APK+reversing;Hook+it.+Tamper+it.+Own+it." alt="taglines"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=900&color=F724A9&center=true&vCenter=true&width=640&height=50&lines=Agentic+systems+%C2%B7+LLM+orchestration;Android+offensive+security;Ship+agents.+Break+apps.;Hook+it.+Tamper+it.+Own+it." alt="taglines"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 ```bash
 ┌─[weeslax@root]─[~]
 └──╼ $ whoami
-   › mobile / android offensive security
+   › agentic ai engineer · mobile offensive security
 └──╼ $ cat ./focus
    › agentic systems · llm orchestration · ai red teaming · mobile offensive security
 └──╼ $ cat ./currently
