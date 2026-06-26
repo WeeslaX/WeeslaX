@@ -14,8 +14,6 @@
    › mobile / android offensive security
 └──╼ $ cat ./focus
    › android red team · frida hooking · apk reversing · gui fuzzing
-└──╼ $ ls ./arsenal
-   › Hexhound/   GhostHook/   Insecure_Target/
 └──╼ $ cat ./currently
    › [REDACTED] · private R&D in progress
 ```
